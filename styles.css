@@ -3,7 +3,7 @@
 }
 
 html {
-  font-family: 'Jost', sans-serif;
+  font-family: "Jost", sans-serif;
 }
 
 body {
@@ -18,6 +18,10 @@ header {
   background-color: #1b995e;
   color: white;
   text-align: center;
+}
+
+button {
+  margin: 10px;
 }
 
 #assignment {
